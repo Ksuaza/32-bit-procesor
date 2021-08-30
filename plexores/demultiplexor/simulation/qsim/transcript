@@ -1,0 +1,27 @@
+# do demultiplexor.do
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 16:14:19 on Sep 30,2016
+# vlog -work work demultiplexor.vo 
+# -- Compiling module demultiplexor4_1
+# 
+# Top level modules:
+# 	demultiplexor4_1
+# End time: 16:14:19 on Sep 30,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 16:14:19 on Sep 30,2016
+# vlog -work work mierda.vwf.vt 
+# -- Compiling module demultiplexor4_1_vlg_vec_tst
+# 
+# Top level modules:
+# 	demultiplexor4_1_vlg_vec_tst
+# End time: 16:14:19 on Sep 30,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.demultiplexor4_1_vlg_vec_tst -voptargs=""+acc"" 
+# Start time: 16:14:19 on Sep 30,2016
+# Loading work.demultiplexor4_1_vlg_vec_tst
+# Loading work.demultiplexor4_1
+# ** Note: $finish    : mierda.vwf.vt(55)
+#    Time: 1 us  Iteration: 0  Instance: /demultiplexor4_1_vlg_vec_tst
+# End time: 16:14:20 on Sep 30,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

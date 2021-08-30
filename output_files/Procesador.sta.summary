@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'Reloj'
+Slack : -11.830
+TNS   : -2340.331
+
+Type  : Slow 1100mV 85C Model Setup 'Cambio'
+Slack : -10.185
+TNS   : -1157.102
+
+Type  : Slow 1100mV 85C Model Hold 'Reloj'
+Slack : 0.576
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Cambio'
+Slack : 0.721
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Cambio'
+Slack : -2.174
+TNS   : -904.604
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Reloj'
+Slack : -0.793
+TNS   : -253.371
+
+Type  : Slow 1100mV 0C Model Setup 'Reloj'
+Slack : -11.315
+TNS   : -2286.103
+
+Type  : Slow 1100mV 0C Model Setup 'Cambio'
+Slack : -9.620
+TNS   : -1100.662
+
+Type  : Slow 1100mV 0C Model Hold 'Reloj'
+Slack : 0.594
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Cambio'
+Slack : 0.598
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Cambio'
+Slack : -2.174
+TNS   : -902.548
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Reloj'
+Slack : -0.786
+TNS   : -254.170
+
+Type  : Fast 1100mV 85C Model Setup 'Reloj'
+Slack : -6.429
+TNS   : -1298.551
+
+Type  : Fast 1100mV 85C Model Setup 'Cambio'
+Slack : -5.529
+TNS   : -585.525
+
+Type  : Fast 1100mV 85C Model Hold 'Reloj'
+Slack : 0.304
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'Cambio'
+Slack : 0.327
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Cambio'
+Slack : -2.174
+TNS   : -901.088
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Reloj'
+Slack : -0.794
+TNS   : -224.183
+
+Type  : Fast 1100mV 0C Model Setup 'Reloj'
+Slack : -5.673
+TNS   : -1157.829
+
+Type  : Fast 1100mV 0C Model Setup 'Cambio'
+Slack : -4.809
+TNS   : -502.572
+
+Type  : Fast 1100mV 0C Model Hold 'Cambio'
+Slack : 0.197
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'Reloj'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Cambio'
+Slack : -2.174
+TNS   : -901.708
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Reloj'
+Slack : -0.727
+TNS   : -210.121
+
+------------------------------------------------------------

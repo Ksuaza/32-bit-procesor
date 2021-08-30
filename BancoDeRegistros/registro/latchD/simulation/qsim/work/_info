@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/latchD/simulation/qsim
+vlatchD
+Z1 !s110 1475271162
+!i10b 1
+!s100 6D_7KmQ?A@aS9RMmbURV[1
+I0E<fhY;`Eez8R^kaWTYOz0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1475271161
+8latchD.vo
+FlatchD.vo
+L0 32
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1475271162.000000
+!s107 latchD.vo|
+!s90 -work|work|latchD.vo|
+!i113 1
+Z5 o-work work
+nlatch@d
+vlatchD_vlg_vec_tst
+R1
+!i10b 1
+!s100 >81E=EhKz:l`Eio`E[Cok3
+IjC9]FDT17gdeMDV6aa0BG2
+R2
+R0
+w1475271159
+8popo.vwf.vt
+Fpopo.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 popo.vwf.vt|
+!s90 -work|work|popo.vwf.vt|
+!i113 1
+R5
+nlatch@d_vlg_vec_tst

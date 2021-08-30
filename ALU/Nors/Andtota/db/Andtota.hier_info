@@ -1,0 +1,222 @@
+|Andtota32_1
+A[0] => Andtota:Ant0.A
+A[1] => Andtota:Ant0.B
+A[2] => Andtota:Ant1.A
+A[3] => Andtota:Ant1.B
+A[4] => Andtota:Ant2.A
+A[5] => Andtota:Ant2.B
+A[6] => Andtota:Ant3.A
+A[7] => Andtota:Ant3.B
+A[8] => Andtota:Ant4.A
+A[9] => Andtota:Ant4.B
+A[10] => Andtota:Ant5.A
+A[11] => Andtota:Ant5.B
+A[12] => Andtota:Ant6.A
+A[13] => Andtota:Ant6.B
+A[14] => Andtota:Ant7.A
+A[15] => Andtota:Ant7.B
+A[16] => Andtota:Ant8.A
+A[17] => Andtota:Ant8.B
+A[18] => Andtota:Ant9.A
+A[19] => Andtota:Ant9.B
+A[20] => Andtota:Ant10.A
+A[21] => Andtota:Ant10.B
+A[22] => Andtota:Ant11.A
+A[23] => Andtota:Ant11.B
+A[24] => Andtota:Ant12.A
+A[25] => Andtota:Ant12.B
+A[26] => Andtota:Ant13.A
+A[27] => Andtota:Ant13.B
+A[28] => Andtota:Ant14.A
+A[29] => Andtota:Ant14.B
+A[30] => Andtota:Ant15.A
+A[31] => Andtota:Ant15.B
+s <= Andtota:Ant30.s
+
+
+|Andtota32_1|Andtota:Ant0
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant1
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant2
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant3
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant4
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant5
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant6
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant7
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant8
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant9
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant10
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant11
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant12
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant13
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant14
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant15
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant16
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant17
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant18
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant19
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant20
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant21
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant22
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant23
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant24
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant25
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant26
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant27
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant28
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant29
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Andtota32_1|Andtota:Ant30
+A => s.IN0
+B => s.IN1
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+
+

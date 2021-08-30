@@ -1,0 +1,9 @@
+|latchD
+d => q.IN0
+d => qn.IN0
+en => q.IN1
+en => qn.IN1
+q <> q
+qn <> qn
+
+

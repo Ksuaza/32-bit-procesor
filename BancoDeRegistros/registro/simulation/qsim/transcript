@@ -1,0 +1,29 @@
+# do registro.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 22:25:48 on Nov 02,2016
+# vlog -work work registro.vo 
+# -- Compiling module registro
+# 
+# Top level modules:
+# 	registro
+# End time: 22:25:48 on Nov 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 22:25:48 on Nov 02,2016
+# vlog -work work ajajaaaajajajjaja.vwf.vt 
+# -- Compiling module registro_vlg_vec_tst
+# 
+# Top level modules:
+# 	registro_vlg_vec_tst
+# End time: 22:25:48 on Nov 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.registro_vlg_vec_tst -voptargs=""+acc"" 
+# Start time: 22:25:48 on Nov 02,2016
+# Loading work.registro_vlg_vec_tst
+# Loading work.registro
+# ** Note: $finish    : ajajaaaajajajjaja.vwf.vt(49)
+#    Time: 1 us  Iteration: 0  Instance: /registro_vlg_vec_tst
+# End time: 22:25:48 on Nov 02,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

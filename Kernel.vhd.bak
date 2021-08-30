@@ -1,0 +1,52 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+
+entity Procesador is port (
+Di :in std_logic_vector (31 downto 0);
+Sdi :in std_logic;
+Oper :in std_logic_vector (2 downto 0);
+Co :out std_logic;
+Fuente1, Fuente2, Destino :in std_logic_vector (2 downto 0);
+W    :in std_logic;
+);
+end Procesador;
+
+architecture interna of Procesador is
+
+component UnidadLogica is port(
+  A, B :in std_logic_vector (31 downto 0);
+  Res  :out std_logic_vector (31 downto 0);
+  Oper :in std_logic_vector (2 downto 0);
+  co   :out std_logic
+);
+end component;
+
+component BancoDeRegistros is port (
+  Data :in std_logic_vector (31 downto 0);
+  Fuente1, Fuente2, Destino :in std_logic_vector (2 downto 0);
+  W    :in std_logic;
+  A, B :out std_logic_vector (31 downto 0)
+);
+end component;
+
+component multiplexador32_b_2_1 is port (
+A, B :in std_logic_vector (31 downto 0);
+S    :in std_logic;
+Q    :out std_logic_vector (31 downto 0)
+);
+end component;
+
+signal x0 :std_logic;
+signal x1 :std_logic;
+signal x2 :std_logic;
+signal x3 :std_logic;
+
+begin
+
+BancoR: BancoDeRegistros port map (x0, Fuente1, Fuente2, Destino, W, x1, x2);
+Alu0: UnidadLogica port map (x1, x3, Oper, Co);
+DDI: multiplexador32_b_2_1 port map (x2, Di, sdi, x3);
+end interna;
+
+-- Kevin Suaza

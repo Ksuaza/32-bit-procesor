@@ -1,0 +1,741 @@
+|sumadorRestador
+q[0] => sumador:SUM0.a
+q[1] => sumador:SUM1.a
+q[2] => sumador:SUM2.a
+q[3] => sumador:SUM3.a
+q[4] => sumador:SUM4.a
+q[5] => sumador:SUM5.a
+q[6] => sumador:SUM6.a
+q[7] => sumador:SUM7.a
+q[8] => sumador:SUM8.a
+q[9] => sumador:SUM9.a
+q[10] => sumador:SUM10.a
+q[11] => sumador:SUM11.a
+q[12] => sumador:SUM12.a
+q[13] => sumador:SUM13.a
+q[14] => sumador:SUM14.a
+q[15] => sumador:SUM15.a
+q[16] => sumador:SUM16.a
+q[17] => sumador:SUM17.a
+q[18] => sumador:SUM18.a
+q[19] => sumador:SUM19.a
+q[20] => sumador:SUM20.a
+q[21] => sumador:SUM21.a
+q[22] => sumador:SUM22.a
+q[23] => sumador:SUM23.a
+q[24] => sumador:SUM24.a
+q[25] => sumador:SUM25.a
+q[26] => sumador:SUM26.a
+q[27] => sumador:SUM27.a
+q[28] => sumador:SUM28.a
+q[29] => sumador:SUM29.a
+q[30] => sumador:SUM30.a
+q[31] => sumador:SUM31.a
+p[0] => sumador:SUM0.b
+p[1] => sumador:SUM1.b
+p[2] => sumador:SUM2.b
+p[3] => sumador:SUM3.b
+p[4] => sumador:SUM4.b
+p[5] => sumador:SUM5.b
+p[6] => sumador:SUM6.b
+p[7] => sumador:SUM7.b
+p[8] => sumador:SUM8.b
+p[9] => sumador:SUM9.b
+p[10] => sumador:SUM10.b
+p[11] => sumador:SUM11.b
+p[12] => sumador:SUM12.b
+p[13] => sumador:SUM13.b
+p[14] => sumador:SUM14.b
+p[15] => sumador:SUM15.b
+p[16] => sumador:SUM16.b
+p[17] => sumador:SUM17.b
+p[18] => sumador:SUM18.b
+p[19] => sumador:SUM19.b
+p[20] => sumador:SUM20.b
+p[21] => sumador:SUM21.b
+p[22] => sumador:SUM22.b
+p[23] => sumador:SUM23.b
+p[24] => sumador:SUM24.b
+p[25] => sumador:SUM25.b
+p[26] => sumador:SUM26.b
+p[27] => sumador:SUM27.b
+p[28] => sumador:SUM28.b
+p[29] => sumador:SUM29.b
+p[30] => sumador:SUM30.b
+p[31] => sumador:SUM31.b
+s[0] << sumador:SUM0.S
+s[1] << sumador:SUM1.S
+s[2] << sumador:SUM2.S
+s[3] << sumador:SUM3.S
+s[4] << sumador:SUM4.S
+s[5] << sumador:SUM5.S
+s[6] << sumador:SUM6.S
+s[7] << sumador:SUM7.S
+s[8] << sumador:SUM8.S
+s[9] << sumador:SUM9.S
+s[10] << sumador:SUM10.S
+s[11] << sumador:SUM11.S
+s[12] << sumador:SUM12.S
+s[13] << sumador:SUM13.S
+s[14] << sumador:SUM14.S
+s[15] << sumador:SUM15.S
+s[16] << sumador:SUM16.S
+s[17] << sumador:SUM17.S
+s[18] << sumador:SUM18.S
+s[19] << sumador:SUM19.S
+s[20] << sumador:SUM20.S
+s[21] << sumador:SUM21.S
+s[22] << sumador:SUM22.S
+s[23] << sumador:SUM23.S
+s[24] << sumador:SUM24.S
+s[25] << sumador:SUM25.S
+s[26] << sumador:SUM26.S
+s[27] << sumador:SUM27.S
+s[28] << sumador:SUM28.S
+s[29] << sumador:SUM29.S
+s[30] << sumador:SUM30.S
+s[31] << sumador:SUM31.S
+c0 << sumador:SUM31.Co
+c1 => sumador:SUM0.Ci
+c1 => sumador:SUM0.r
+c1 => sumador:SUM1.r
+c1 => sumador:SUM2.r
+c1 => sumador:SUM3.r
+c1 => sumador:SUM4.r
+c1 => sumador:SUM5.r
+c1 => sumador:SUM6.r
+c1 => sumador:SUM7.r
+c1 => sumador:SUM8.r
+c1 => sumador:SUM9.r
+c1 => sumador:SUM10.r
+c1 => sumador:SUM11.r
+c1 => sumador:SUM12.r
+c1 => sumador:SUM13.r
+c1 => sumador:SUM14.r
+c1 => sumador:SUM15.r
+c1 => sumador:SUM16.r
+c1 => sumador:SUM17.r
+c1 => sumador:SUM18.r
+c1 => sumador:SUM19.r
+c1 => sumador:SUM20.r
+c1 => sumador:SUM21.r
+c1 => sumador:SUM22.r
+c1 => sumador:SUM23.r
+c1 => sumador:SUM24.r
+c1 => sumador:SUM25.r
+c1 => sumador:SUM26.r
+c1 => sumador:SUM27.r
+c1 => sumador:SUM28.r
+c1 => sumador:SUM29.r
+c1 => sumador:SUM30.r
+c1 => sumador:SUM31.r
+
+
+|sumadorRestador|sumador:SUM0
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM2
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM3
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM4
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM5
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM6
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM7
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM8
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM9
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM10
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM11
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM12
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM13
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM14
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM15
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM16
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM17
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM18
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM19
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM20
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM21
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM22
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM23
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM24
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM25
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM26
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM27
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM28
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM29
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM30
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumadorRestador|sumador:SUM31
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => S.IN1
+a => Co.IN1
+b => x.IN0
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+Ci => Co.IN1
+Ci => S.IN1
+Ci => S.IN1
+Ci => Co.IN1
+r => x.IN1
+S <= S.DB_MAX_OUTPUT_PORT_TYPE
+Co <= Co.DB_MAX_OUTPUT_PORT_TYPE
+
+

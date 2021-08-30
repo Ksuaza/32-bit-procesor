@@ -1,0 +1,15 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+
+entity Xors is port (
+
+);
+end Xors;
+
+architecture interna of Xors is
+begin
+
+end interna;
+
+-- Kevin Suaza

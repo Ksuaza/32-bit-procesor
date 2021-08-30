@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'Destino[0]'
+Slack : -3.275
+TNS   : -601.825
+
+Type  : Slow 1100mV 85C Model Hold 'Destino[0]'
+Slack : 0.583
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Destino[0]'
+Slack : -0.025
+TNS   : -0.050
+
+Type  : Slow 1100mV 0C Model Setup 'Destino[0]'
+Slack : -3.147
+TNS   : -595.091
+
+Type  : Slow 1100mV 0C Model Hold 'Destino[0]'
+Slack : 0.554
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Destino[0]'
+Slack : -0.001
+TNS   : -0.002
+
+Type  : Fast 1100mV 85C Model Setup 'Destino[0]'
+Slack : -1.453
+TNS   : -212.546
+
+Type  : Fast 1100mV 85C Model Hold 'Destino[0]'
+Slack : 0.268
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Destino[0]'
+Slack : -0.290
+TNS   : -75.525
+
+Type  : Fast 1100mV 0C Model Setup 'Destino[0]'
+Slack : -1.313
+TNS   : -179.546
+
+Type  : Fast 1100mV 0C Model Hold 'Destino[0]'
+Slack : 0.220
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Destino[0]'
+Slack : -0.213
+TNS   : -54.927
+
+------------------------------------------------------------

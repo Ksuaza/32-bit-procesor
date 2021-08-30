@@ -1,0 +1,862 @@
+Analysis & Synthesis report for registro
+Sat Nov 12 00:29:58 2016
+Quartus Prime Version 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Analysis & Synthesis Summary
+  3. Analysis & Synthesis Settings
+  4. Parallel Compilation
+  5. Analysis & Synthesis Source Files Read
+  6. Analysis & Synthesis Resource Usage Summary
+  7. Analysis & Synthesis Resource Utilization by Entity
+  8. Logic Cells Representing Combinational Loops
+  9. General Register Statistics
+ 10. Port Connectivity Checks: "flipFlop:\ciclo:0:flip"
+ 11. Port Connectivity Checks: "flipFlop:\ciclo:1:flip"
+ 12. Port Connectivity Checks: "flipFlop:\ciclo:2:flip"
+ 13. Port Connectivity Checks: "flipFlop:\ciclo:3:flip"
+ 14. Port Connectivity Checks: "flipFlop:\ciclo:4:flip"
+ 15. Port Connectivity Checks: "flipFlop:\ciclo:5:flip"
+ 16. Port Connectivity Checks: "flipFlop:\ciclo:6:flip"
+ 17. Port Connectivity Checks: "flipFlop:\ciclo:7:flip"
+ 18. Port Connectivity Checks: "flipFlop:\ciclo:8:flip"
+ 19. Port Connectivity Checks: "flipFlop:\ciclo:9:flip"
+ 20. Port Connectivity Checks: "flipFlop:\ciclo:10:flip"
+ 21. Port Connectivity Checks: "flipFlop:\ciclo:11:flip"
+ 22. Port Connectivity Checks: "flipFlop:\ciclo:12:flip"
+ 23. Port Connectivity Checks: "flipFlop:\ciclo:13:flip"
+ 24. Port Connectivity Checks: "flipFlop:\ciclo:14:flip"
+ 25. Port Connectivity Checks: "flipFlop:\ciclo:15:flip"
+ 26. Port Connectivity Checks: "flipFlop:\ciclo:16:flip"
+ 27. Port Connectivity Checks: "flipFlop:\ciclo:17:flip"
+ 28. Port Connectivity Checks: "flipFlop:\ciclo:18:flip"
+ 29. Port Connectivity Checks: "flipFlop:\ciclo:19:flip"
+ 30. Port Connectivity Checks: "flipFlop:\ciclo:20:flip"
+ 31. Port Connectivity Checks: "flipFlop:\ciclo:21:flip"
+ 32. Port Connectivity Checks: "flipFlop:\ciclo:22:flip"
+ 33. Port Connectivity Checks: "flipFlop:\ciclo:23:flip"
+ 34. Port Connectivity Checks: "flipFlop:\ciclo:24:flip"
+ 35. Port Connectivity Checks: "flipFlop:\ciclo:25:flip"
+ 36. Port Connectivity Checks: "flipFlop:\ciclo:26:flip"
+ 37. Port Connectivity Checks: "flipFlop:\ciclo:27:flip"
+ 38. Port Connectivity Checks: "flipFlop:\ciclo:28:flip"
+ 39. Port Connectivity Checks: "flipFlop:\ciclo:29:flip"
+ 40. Port Connectivity Checks: "flipFlop:\ciclo:30:flip"
+ 41. Port Connectivity Checks: "flipFlop:\ciclo:31:flip|latchD:latch1"
+ 42. Port Connectivity Checks: "flipFlop:\ciclo:31:flip"
+ 43. Post-Synthesis Netlist Statistics for Top Partition
+ 44. Elapsed Time Per Partition
+ 45. Analysis & Synthesis Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2016 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus Prime License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------------+
+; Analysis & Synthesis Summary                                                  ;
++---------------------------------+---------------------------------------------+
+; Analysis & Synthesis Status     ; Successful - Sat Nov 12 00:29:58 2016       ;
+; Quartus Prime Version           ; 16.0.0 Build 211 04/27/2016 SJ Lite Edition ;
+; Revision Name                   ; registro                                    ;
+; Top-level Entity Name           ; registro                                    ;
+; Family                          ; Cyclone V                                   ;
+; Logic utilization (in ALMs)     ; N/A                                         ;
+; Total registers                 ; 0                                           ;
+; Total pins                      ; 65                                          ;
+; Total virtual pins              ; 0                                           ;
+; Total block memory bits         ; 0                                           ;
+; Total DSP Blocks                ; 0                                           ;
+; Total HSSI RX PCSs              ; 0                                           ;
+; Total HSSI PMA RX Deserializers ; 0                                           ;
+; Total HSSI TX PCSs              ; 0                                           ;
+; Total HSSI PMA TX Serializers   ; 0                                           ;
+; Total PLLs                      ; 0                                           ;
+; Total DLLs                      ; 0                                           ;
++---------------------------------+---------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Settings                                                                                             ;
++---------------------------------------------------------------------------------+--------------------+--------------------+
+; Option                                                                          ; Setting            ; Default Value      ;
++---------------------------------------------------------------------------------+--------------------+--------------------+
+; Device                                                                          ; 5CGXFC7C7F23C8     ;                    ;
+; Top-level entity name                                                           ; registro           ; registro           ;
+; Family name                                                                     ; Cyclone V          ; Cyclone V          ;
+; Use smart compilation                                                           ; Off                ; Off                ;
+; Enable parallel Assembler and TimeQuest Timing Analyzer during compilation      ; On                 ; On                 ;
+; Enable compact report table                                                     ; Off                ; Off                ;
+; Restructure Multiplexers                                                        ; Auto               ; Auto               ;
+; MLAB Add Timing Constraints For Mixed-Port Feed-Through Mode Setting Don't Care ; Off                ; Off                ;
+; Create Debugging Nodes for IP Cores                                             ; Off                ; Off                ;
+; Preserve fewer node names                                                       ; On                 ; On                 ;
+; Disable OpenCore Plus hardware evaluation                                       ; Off                ; Off                ;
+; Verilog Version                                                                 ; Verilog_2001       ; Verilog_2001       ;
+; VHDL Version                                                                    ; VHDL_1993          ; VHDL_1993          ;
+; State Machine Processing                                                        ; Auto               ; Auto               ;
+; Safe State Machine                                                              ; Off                ; Off                ;
+; Extract Verilog State Machines                                                  ; On                 ; On                 ;
+; Extract VHDL State Machines                                                     ; On                 ; On                 ;
+; Ignore Verilog initial constructs                                               ; Off                ; Off                ;
+; Iteration limit for constant Verilog loops                                      ; 5000               ; 5000               ;
+; Iteration limit for non-constant Verilog loops                                  ; 250                ; 250                ;
+; Add Pass-Through Logic to Inferred RAMs                                         ; On                 ; On                 ;
+; Infer RAMs from Raw Logic                                                       ; On                 ; On                 ;
+; Parallel Synthesis                                                              ; On                 ; On                 ;
+; DSP Block Balancing                                                             ; Auto               ; Auto               ;
+; NOT Gate Push-Back                                                              ; On                 ; On                 ;
+; Power-Up Don't Care                                                             ; On                 ; On                 ;
+; Remove Redundant Logic Cells                                                    ; Off                ; Off                ;
+; Remove Duplicate Registers                                                      ; On                 ; On                 ;
+; Ignore CARRY Buffers                                                            ; Off                ; Off                ;
+; Ignore CASCADE Buffers                                                          ; Off                ; Off                ;
+; Ignore GLOBAL Buffers                                                           ; Off                ; Off                ;
+; Ignore ROW GLOBAL Buffers                                                       ; Off                ; Off                ;
+; Ignore LCELL Buffers                                                            ; Off                ; Off                ;
+; Ignore SOFT Buffers                                                             ; On                 ; On                 ;
+; Limit AHDL Integers to 32 Bits                                                  ; Off                ; Off                ;
+; Optimization Technique                                                          ; Balanced           ; Balanced           ;
+; Carry Chain Length                                                              ; 70                 ; 70                 ;
+; Auto Carry Chains                                                               ; On                 ; On                 ;
+; Auto Open-Drain Pins                                                            ; On                 ; On                 ;
+; Perform WYSIWYG Primitive Resynthesis                                           ; Off                ; Off                ;
+; Auto ROM Replacement                                                            ; On                 ; On                 ;
+; Auto RAM Replacement                                                            ; On                 ; On                 ;
+; Auto DSP Block Replacement                                                      ; On                 ; On                 ;
+; Auto Shift Register Replacement                                                 ; Auto               ; Auto               ;
+; Allow Shift Register Merging across Hierarchies                                 ; Auto               ; Auto               ;
+; Auto Clock Enable Replacement                                                   ; On                 ; On                 ;
+; Strict RAM Replacement                                                          ; Off                ; Off                ;
+; Allow Synchronous Control Signals                                               ; On                 ; On                 ;
+; Force Use of Synchronous Clear Signals                                          ; Off                ; Off                ;
+; Auto Resource Sharing                                                           ; Off                ; Off                ;
+; Allow Any RAM Size For Recognition                                              ; Off                ; Off                ;
+; Allow Any ROM Size For Recognition                                              ; Off                ; Off                ;
+; Allow Any Shift Register Size For Recognition                                   ; Off                ; Off                ;
+; Use LogicLock Constraints during Resource Balancing                             ; On                 ; On                 ;
+; Ignore translate_off and synthesis_off directives                               ; Off                ; Off                ;
+; Timing-Driven Synthesis                                                         ; On                 ; On                 ;
+; Report Parameter Settings                                                       ; On                 ; On                 ;
+; Report Source Assignments                                                       ; On                 ; On                 ;
+; Report Connectivity Checks                                                      ; On                 ; On                 ;
+; Ignore Maximum Fan-Out Assignments                                              ; Off                ; Off                ;
+; Synchronization Register Chain Length                                           ; 3                  ; 3                  ;
+; PowerPlay Power Optimization During Synthesis                                   ; Normal compilation ; Normal compilation ;
+; HDL message level                                                               ; Level2             ; Level2             ;
+; Suppress Register Optimization Related Messages                                 ; Off                ; Off                ;
+; Number of Removed Registers Reported in Synthesis Report                        ; 5000               ; 5000               ;
+; Number of Swept Nodes Reported in Synthesis Report                              ; 5000               ; 5000               ;
+; Number of Inverted Registers Reported in Synthesis Report                       ; 100                ; 100                ;
+; Clock MUX Protection                                                            ; On                 ; On                 ;
+; Auto Gated Clock Conversion                                                     ; Off                ; Off                ;
+; Block Design Naming                                                             ; Auto               ; Auto               ;
+; SDC constraint protection                                                       ; Off                ; Off                ;
+; Synthesis Effort                                                                ; Auto               ; Auto               ;
+; Shift Register Replacement - Allow Asynchronous Clear Signal                    ; On                 ; On                 ;
+; Pre-Mapping Resynthesis Optimization                                            ; Off                ; Off                ;
+; Analysis & Synthesis Message Level                                              ; Medium             ; Medium             ;
+; Disable Register Merging Across Hierarchies                                     ; Auto               ; Auto               ;
+; Resource Aware Inference For Block RAM                                          ; On                 ; On                 ;
+; Synthesis Seed                                                                  ; 1                  ; 1                  ;
+; Automatic Parallel Synthesis                                                    ; On                 ; On                 ;
+; Partial Reconfiguration Bitstream ID                                            ; Off                ; Off                ;
++---------------------------------------------------------------------------------+--------------------+--------------------+
+
+
++------------------------------------------+
+; Parallel Compilation                     ;
++----------------------------+-------------+
+; Processors                 ; Number      ;
++----------------------------+-------------+
+; Number detected on machine ; 8           ;
+; Maximum allowed            ; 4           ;
+;                            ;             ;
+; Average used               ; 1.00        ;
+; Maximum used               ; 1           ;
+;                            ;             ;
+; Usage by Processor         ; % Time Used ;
+;     Processor 1            ; 100.0%      ;
++----------------------------+-------------+
+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                                     ;
++----------------------------------+-----------------+-----------------+-----------------------------------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type       ; File Name with Absolute Path                                                                              ; Library ;
++----------------------------------+-----------------+-----------------+-----------------------------------------------------------------------------------------------------------+---------+
+; flipFlop/flipFlop.vhd            ; yes             ; User VHDL File  ; F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/flipFlop/flipFlop.vhd ;         ;
+; latchD/latchD.vhd                ; yes             ; User VHDL File  ; F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/latchD/latchD.vhd     ;         ;
+; registro.vhd                     ; yes             ; User VHDL File  ; F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd          ;         ;
++----------------------------------+-----------------+-----------------+-----------------------------------------------------------------------------------------------------------+---------+
+
+
++--------------------------------------------------------+
+; Analysis & Synthesis Resource Usage Summary            ;
++---------------------------------------------+----------+
+; Resource                                    ; Usage    ;
++---------------------------------------------+----------+
+; Estimate of Logic utilization (ALMs needed) ; 32       ;
+;                                             ;          ;
+; Combinational ALUT usage for logic          ; 64       ;
+;     -- 7 input functions                    ; 0        ;
+;     -- 6 input functions                    ; 0        ;
+;     -- 5 input functions                    ; 0        ;
+;     -- 4 input functions                    ; 0        ;
+;     -- <=3 input functions                  ; 64       ;
+;                                             ;          ;
+; Dedicated logic registers                   ; 0        ;
+;                                             ;          ;
+; I/O pins                                    ; 65       ;
+;                                             ;          ;
+; Total DSP Blocks                            ; 0        ;
+;                                             ;          ;
+; Maximum fan-out node                        ; EN~input ;
+; Maximum fan-out                             ; 64       ;
+; Total fan-out                               ; 321      ;
+; Average fan-out                             ; 1.42     ;
++---------------------------------------------+----------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Resource Utilization by Entity                                                                                                                                                   ;
++------------------------------+-------------------+--------------+-------------------+------------+------+--------------+-------------------------------------------------+-------------+--------------+
+; Compilation Hierarchy Node   ; LC Combinationals ; LC Registers ; Block Memory Bits ; DSP Blocks ; Pins ; Virtual Pins ; Full Hierarchy Name                             ; Entity Name ; Library Name ;
++------------------------------+-------------------+--------------+-------------------+------------+------+--------------+-------------------------------------------------+-------------+--------------+
+; |registro                    ; 64 (0)            ; 0 (0)        ; 0                 ; 0          ; 65   ; 0            ; |registro                                       ; registro    ; work         ;
+;    |flipFlop:\ciclo:0:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:0:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:0:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:0:flip|latchD:latch2  ; latchD      ; work         ;
+;    |flipFlop:\ciclo:10:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:10:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:10:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:10:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:11:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:11:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:11:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:11:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:12:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:12:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:12:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:12:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:13:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:13:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:13:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:13:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:14:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:14:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:14:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:14:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:15:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:15:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:15:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:15:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:16:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:16:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:16:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:16:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:17:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:17:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:17:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:17:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:18:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:18:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:18:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:18:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:19:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:19:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:19:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:19:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:1:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:1:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:1:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:1:flip|latchD:latch2  ; latchD      ; work         ;
+;    |flipFlop:\ciclo:20:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:20:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:20:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:20:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:21:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:21:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:21:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:21:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:22:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:22:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:22:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:22:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:23:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:23:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:23:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:23:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:24:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:24:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:24:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:24:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:25:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:25:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:25:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:25:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:26:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:26:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:26:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:26:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:27:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:27:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:27:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:27:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:28:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:28:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:28:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:28:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:29:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:29:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:29:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:29:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:2:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:2:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:2:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:2:flip|latchD:latch2  ; latchD      ; work         ;
+;    |flipFlop:\ciclo:30:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:30:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:30:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:30:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:31:flip| ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:31:flip               ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:31:flip|latchD:latch1 ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:31:flip|latchD:latch2 ; latchD      ; work         ;
+;    |flipFlop:\ciclo:3:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:3:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:3:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:3:flip|latchD:latch2  ; latchD      ; work         ;
+;    |flipFlop:\ciclo:4:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:4:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:4:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:4:flip|latchD:latch2  ; latchD      ; work         ;
+;    |flipFlop:\ciclo:5:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:5:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:5:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:5:flip|latchD:latch2  ; latchD      ; work         ;
+;    |flipFlop:\ciclo:6:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:6:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:6:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:6:flip|latchD:latch2  ; latchD      ; work         ;
+;    |flipFlop:\ciclo:7:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:7:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:7:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:7:flip|latchD:latch2  ; latchD      ; work         ;
+;    |flipFlop:\ciclo:8:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:8:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:8:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:8:flip|latchD:latch2  ; latchD      ; work         ;
+;    |flipFlop:\ciclo:9:flip|  ; 2 (0)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:9:flip                ; flipFlop    ; work         ;
+;       |latchD:latch1|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:9:flip|latchD:latch1  ; latchD      ; work         ;
+;       |latchD:latch2|        ; 1 (1)             ; 0 (0)        ; 0                 ; 0          ; 0    ; 0            ; |registro|flipFlop:\ciclo:9:flip|latchD:latch2  ; latchD      ; work         ;
++------------------------------+-------------------+--------------+-------------------+------------+------+--------------+-------------------------------------------------+-------------+--------------+
+Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
+
+
++-------------------------------------------------------------+
+; Logic Cells Representing Combinational Loops                ;
++--------------------------------------------------------+----+
+; Logic Cell Name                                        ;    ;
++--------------------------------------------------------+----+
+; flipFlop:\ciclo:0:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:1:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:2:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:3:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:4:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:5:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:6:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:7:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:8:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:9:flip|latchD:latch2|qn1~0             ;    ;
+; flipFlop:\ciclo:10:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:11:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:12:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:13:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:14:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:15:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:16:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:17:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:18:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:19:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:20:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:21:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:22:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:23:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:24:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:25:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:26:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:27:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:28:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:29:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:30:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:31:flip|latchD:latch2|qn1~0            ;    ;
+; flipFlop:\ciclo:0:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:1:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:2:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:3:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:4:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:5:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:6:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:7:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:8:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:9:flip|latchD:latch1|qn1~0             ;    ;
+; flipFlop:\ciclo:10:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:11:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:12:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:13:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:14:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:15:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:16:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:17:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:18:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:19:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:20:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:21:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:22:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:23:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:24:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:25:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:26:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:27:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:28:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:29:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:30:flip|latchD:latch1|qn1~0            ;    ;
+; flipFlop:\ciclo:31:flip|latchD:latch1|qn1~0            ;    ;
+; Number of logic cells representing combinational loops ; 64 ;
++--------------------------------------------------------+----+
+Note: All cells listed above may not be present at the end of synthesis due to various synthesis optimizations.
+
+
++------------------------------------------------------+
+; General Register Statistics                          ;
++----------------------------------------------+-------+
+; Statistic                                    ; Value ;
++----------------------------------------------+-------+
+; Total registers                              ; 0     ;
+; Number of registers using Synchronous Clear  ; 0     ;
+; Number of registers using Synchronous Load   ; 0     ;
+; Number of registers using Asynchronous Clear ; 0     ;
+; Number of registers using Asynchronous Load  ; 0     ;
+; Number of registers using Clock Enable       ; 0     ;
+; Number of registers using Preset             ; 0     ;
++----------------------------------------------+-------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:0:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:1:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:2:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:3:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:4:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:5:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:6:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:7:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:8:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:9:flip"                                                            ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:10:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:11:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:12:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:13:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:14:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:15:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:16:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:17:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:18:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:19:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:20:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:21:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:22:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:23:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:24:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:25:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:26:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:27:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:28:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:29:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:30:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:31:flip|latchD:latch1"                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "flipFlop:\ciclo:31:flip"                                                           ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; Port ; Type  ; Severity ; Details                                                                             ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+; qn   ; Bidir ; Warning  ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++------+-------+----------+-------------------------------------------------------------------------------------+
+
+
++-----------------------------------------------------+
+; Post-Synthesis Netlist Statistics for Top Partition ;
++-----------------------+-----------------------------+
+; Type                  ; Count                       ;
++-----------------------+-----------------------------+
+; arriav_io_obuf        ; 32                          ;
+; arriav_lcell_comb     ; 64                          ;
+;     normal            ; 64                          ;
+;         3 data inputs ; 64                          ;
+; boundary_port         ; 65                          ;
+;                       ;                             ;
+; Max LUT depth         ; 1.00                        ;
+; Average LUT depth     ; 0.83                        ;
++-----------------------+-----------------------------+
+
+
++-------------------------------+
+; Elapsed Time Per Partition    ;
++----------------+--------------+
+; Partition Name ; Elapsed Time ;
++----------------+--------------+
+; Top            ; 00:00:00     ;
++----------------+--------------+
+
+
++-------------------------------+
+; Analysis & Synthesis Messages ;
++-------------------------------+
+Info: *******************************************************************
+Info: Running Quartus Prime Analysis & Synthesis
+    Info: Version 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+    Info: Processing started: Sat Nov 12 00:29:45 2016
+Info: Command: quartus_map --read_settings_files=on --write_settings_files=off registro -c registro
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
+Info (12021): Found 2 design units, including 1 entities, in source file flipflop/flipflop.vhd
+    Info (12022): Found design unit 1: flipFlop-interna File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/flipFlop/flipFlop.vhd Line: 11
+    Info (12023): Found entity 1: flipFlop File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/flipFlop/flipFlop.vhd Line: 5
+Info (12021): Found 2 design units, including 1 entities, in source file latchd/latchd.vhd
+    Info (12022): Found design unit 1: latchD-interna File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/latchD/latchD.vhd Line: 10
+    Info (12023): Found entity 1: latchD File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/latchD/latchD.vhd Line: 4
+Info (12021): Found 2 design units, including 1 entities, in source file registro.vhd
+    Info (12022): Found design unit 1: registro-interna File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 12
+    Info (12023): Found entity 1: registro File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 5
+Info (12127): Elaborating entity "registro" for the top level hierarchy
+Info (12128): Elaborating entity "flipFlop" for hierarchy "flipFlop:\ciclo:31:flip" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 25
+Info (12128): Elaborating entity "latchD" for hierarchy "flipFlop:\ciclo:31:flip|latchD:latch1" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/flipFlop/flipFlop.vhd Line: 25
+Warning (12241): 33 hierarchies have connectivity warnings - see the Connectivity Checks report folder
+Warning (13034): The following nodes have both tri-state and non-tri-state drivers
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[0]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[1]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[2]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[3]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[4]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[5]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[6]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[7]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[8]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[9]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[10]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[11]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[12]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[13]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[14]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[15]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[16]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[17]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[18]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[19]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[20]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[21]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[22]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[23]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[24]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[25]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[26]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[27]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[28]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[29]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[30]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13035): Inserted always-enabled tri-state buffer between "Q[31]" and its non-tri-state driver. File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+Warning (13009): TRI or OPNDRN buffers permanently enabled
+    Warning (13010): Node "Q[0]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[1]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[2]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[3]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[4]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[5]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[6]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[7]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[8]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[9]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[10]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[11]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[12]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[13]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[14]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[15]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[16]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[17]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[18]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[19]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[20]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[21]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[22]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[23]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[24]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[25]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[26]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[27]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[28]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[29]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[30]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+    Warning (13010): Node "Q[31]~synth" File: F:/Escritorio/universidad/Semestre 6/Digitales/Procesador/BancoDeRegistros/registro/registro.vhd Line: 8
+Info (286030): Timing-Driven Synthesis is running
+Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
+    Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
+Info (21057): Implemented 129 device resources after synthesis - the final resource count might be different
+    Info (21058): Implemented 33 input pins
+    Info (21059): Implemented 0 output pins
+    Info (21060): Implemented 32 bidirectional pins
+    Info (21061): Implemented 64 logic cells
+Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 68 warnings
+    Info: Peak virtual memory: 954 megabytes
+    Info: Processing ended: Sat Nov 12 00:29:58 2016
+    Info: Elapsed time: 00:00:13
+    Info: Total CPU time (on all processors): 00:00:31
+
+

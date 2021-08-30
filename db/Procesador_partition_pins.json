@@ -1,0 +1,149 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Salida[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[19]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[20]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[21]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[22]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[23]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[24]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[25]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[26]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[27]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[28]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[29]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[30]",
+					"strict" : false
+				},
+				{
+					"name" : "Salida[31]",
+					"strict" : false
+				},
+				{
+					"name" : "Co",
+					"strict" : false
+				},
+				{
+					"name" : "Cambio",
+					"strict" : false
+				},
+				{
+					"name" : "Reloj",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,3427 @@
+|multiplexador32_b
+A[0] => multiplexador8_1:ciclo:0:MULTItotal.A
+A[1] => multiplexador8_1:ciclo:1:MULTItotal.A
+A[2] => multiplexador8_1:ciclo:2:MULTItotal.A
+A[3] => multiplexador8_1:ciclo:3:MULTItotal.A
+A[4] => multiplexador8_1:ciclo:4:MULTItotal.A
+A[5] => multiplexador8_1:ciclo:5:MULTItotal.A
+A[6] => multiplexador8_1:ciclo:6:MULTItotal.A
+A[7] => multiplexador8_1:ciclo:7:MULTItotal.A
+A[8] => multiplexador8_1:ciclo:8:MULTItotal.A
+A[9] => multiplexador8_1:ciclo:9:MULTItotal.A
+A[10] => multiplexador8_1:ciclo:10:MULTItotal.A
+A[11] => multiplexador8_1:ciclo:11:MULTItotal.A
+A[12] => multiplexador8_1:ciclo:12:MULTItotal.A
+A[13] => multiplexador8_1:ciclo:13:MULTItotal.A
+A[14] => multiplexador8_1:ciclo:14:MULTItotal.A
+A[15] => multiplexador8_1:ciclo:15:MULTItotal.A
+A[16] => multiplexador8_1:ciclo:16:MULTItotal.A
+A[17] => multiplexador8_1:ciclo:17:MULTItotal.A
+A[18] => multiplexador8_1:ciclo:18:MULTItotal.A
+A[19] => multiplexador8_1:ciclo:19:MULTItotal.A
+A[20] => multiplexador8_1:ciclo:20:MULTItotal.A
+A[21] => multiplexador8_1:ciclo:21:MULTItotal.A
+A[22] => multiplexador8_1:ciclo:22:MULTItotal.A
+A[23] => multiplexador8_1:ciclo:23:MULTItotal.A
+A[24] => multiplexador8_1:ciclo:24:MULTItotal.A
+A[25] => multiplexador8_1:ciclo:25:MULTItotal.A
+A[26] => multiplexador8_1:ciclo:26:MULTItotal.A
+A[27] => multiplexador8_1:ciclo:27:MULTItotal.A
+A[28] => multiplexador8_1:ciclo:28:MULTItotal.A
+A[29] => multiplexador8_1:ciclo:29:MULTItotal.A
+A[30] => multiplexador8_1:ciclo:30:MULTItotal.A
+A[31] => multiplexador8_1:ciclo:31:MULTItotal.A
+B[0] => multiplexador8_1:ciclo:0:MULTItotal.B
+B[1] => multiplexador8_1:ciclo:1:MULTItotal.B
+B[2] => multiplexador8_1:ciclo:2:MULTItotal.B
+B[3] => multiplexador8_1:ciclo:3:MULTItotal.B
+B[4] => multiplexador8_1:ciclo:4:MULTItotal.B
+B[5] => multiplexador8_1:ciclo:5:MULTItotal.B
+B[6] => multiplexador8_1:ciclo:6:MULTItotal.B
+B[7] => multiplexador8_1:ciclo:7:MULTItotal.B
+B[8] => multiplexador8_1:ciclo:8:MULTItotal.B
+B[9] => multiplexador8_1:ciclo:9:MULTItotal.B
+B[10] => multiplexador8_1:ciclo:10:MULTItotal.B
+B[11] => multiplexador8_1:ciclo:11:MULTItotal.B
+B[12] => multiplexador8_1:ciclo:12:MULTItotal.B
+B[13] => multiplexador8_1:ciclo:13:MULTItotal.B
+B[14] => multiplexador8_1:ciclo:14:MULTItotal.B
+B[15] => multiplexador8_1:ciclo:15:MULTItotal.B
+B[16] => multiplexador8_1:ciclo:16:MULTItotal.B
+B[17] => multiplexador8_1:ciclo:17:MULTItotal.B
+B[18] => multiplexador8_1:ciclo:18:MULTItotal.B
+B[19] => multiplexador8_1:ciclo:19:MULTItotal.B
+B[20] => multiplexador8_1:ciclo:20:MULTItotal.B
+B[21] => multiplexador8_1:ciclo:21:MULTItotal.B
+B[22] => multiplexador8_1:ciclo:22:MULTItotal.B
+B[23] => multiplexador8_1:ciclo:23:MULTItotal.B
+B[24] => multiplexador8_1:ciclo:24:MULTItotal.B
+B[25] => multiplexador8_1:ciclo:25:MULTItotal.B
+B[26] => multiplexador8_1:ciclo:26:MULTItotal.B
+B[27] => multiplexador8_1:ciclo:27:MULTItotal.B
+B[28] => multiplexador8_1:ciclo:28:MULTItotal.B
+B[29] => multiplexador8_1:ciclo:29:MULTItotal.B
+B[30] => multiplexador8_1:ciclo:30:MULTItotal.B
+B[31] => multiplexador8_1:ciclo:31:MULTItotal.B
+C[0] => multiplexador8_1:ciclo:0:MULTItotal.C
+C[1] => multiplexador8_1:ciclo:1:MULTItotal.C
+C[2] => multiplexador8_1:ciclo:2:MULTItotal.C
+C[3] => multiplexador8_1:ciclo:3:MULTItotal.C
+C[4] => multiplexador8_1:ciclo:4:MULTItotal.C
+C[5] => multiplexador8_1:ciclo:5:MULTItotal.C
+C[6] => multiplexador8_1:ciclo:6:MULTItotal.C
+C[7] => multiplexador8_1:ciclo:7:MULTItotal.C
+C[8] => multiplexador8_1:ciclo:8:MULTItotal.C
+C[9] => multiplexador8_1:ciclo:9:MULTItotal.C
+C[10] => multiplexador8_1:ciclo:10:MULTItotal.C
+C[11] => multiplexador8_1:ciclo:11:MULTItotal.C
+C[12] => multiplexador8_1:ciclo:12:MULTItotal.C
+C[13] => multiplexador8_1:ciclo:13:MULTItotal.C
+C[14] => multiplexador8_1:ciclo:14:MULTItotal.C
+C[15] => multiplexador8_1:ciclo:15:MULTItotal.C
+C[16] => multiplexador8_1:ciclo:16:MULTItotal.C
+C[17] => multiplexador8_1:ciclo:17:MULTItotal.C
+C[18] => multiplexador8_1:ciclo:18:MULTItotal.C
+C[19] => multiplexador8_1:ciclo:19:MULTItotal.C
+C[20] => multiplexador8_1:ciclo:20:MULTItotal.C
+C[21] => multiplexador8_1:ciclo:21:MULTItotal.C
+C[22] => multiplexador8_1:ciclo:22:MULTItotal.C
+C[23] => multiplexador8_1:ciclo:23:MULTItotal.C
+C[24] => multiplexador8_1:ciclo:24:MULTItotal.C
+C[25] => multiplexador8_1:ciclo:25:MULTItotal.C
+C[26] => multiplexador8_1:ciclo:26:MULTItotal.C
+C[27] => multiplexador8_1:ciclo:27:MULTItotal.C
+C[28] => multiplexador8_1:ciclo:28:MULTItotal.C
+C[29] => multiplexador8_1:ciclo:29:MULTItotal.C
+C[30] => multiplexador8_1:ciclo:30:MULTItotal.C
+C[31] => multiplexador8_1:ciclo:31:MULTItotal.C
+D[0] => multiplexador8_1:ciclo:0:MULTItotal.D
+D[1] => multiplexador8_1:ciclo:1:MULTItotal.D
+D[2] => multiplexador8_1:ciclo:2:MULTItotal.D
+D[3] => multiplexador8_1:ciclo:3:MULTItotal.D
+D[4] => multiplexador8_1:ciclo:4:MULTItotal.D
+D[5] => multiplexador8_1:ciclo:5:MULTItotal.D
+D[6] => multiplexador8_1:ciclo:6:MULTItotal.D
+D[7] => multiplexador8_1:ciclo:7:MULTItotal.D
+D[8] => multiplexador8_1:ciclo:8:MULTItotal.D
+D[9] => multiplexador8_1:ciclo:9:MULTItotal.D
+D[10] => multiplexador8_1:ciclo:10:MULTItotal.D
+D[11] => multiplexador8_1:ciclo:11:MULTItotal.D
+D[12] => multiplexador8_1:ciclo:12:MULTItotal.D
+D[13] => multiplexador8_1:ciclo:13:MULTItotal.D
+D[14] => multiplexador8_1:ciclo:14:MULTItotal.D
+D[15] => multiplexador8_1:ciclo:15:MULTItotal.D
+D[16] => multiplexador8_1:ciclo:16:MULTItotal.D
+D[17] => multiplexador8_1:ciclo:17:MULTItotal.D
+D[18] => multiplexador8_1:ciclo:18:MULTItotal.D
+D[19] => multiplexador8_1:ciclo:19:MULTItotal.D
+D[20] => multiplexador8_1:ciclo:20:MULTItotal.D
+D[21] => multiplexador8_1:ciclo:21:MULTItotal.D
+D[22] => multiplexador8_1:ciclo:22:MULTItotal.D
+D[23] => multiplexador8_1:ciclo:23:MULTItotal.D
+D[24] => multiplexador8_1:ciclo:24:MULTItotal.D
+D[25] => multiplexador8_1:ciclo:25:MULTItotal.D
+D[26] => multiplexador8_1:ciclo:26:MULTItotal.D
+D[27] => multiplexador8_1:ciclo:27:MULTItotal.D
+D[28] => multiplexador8_1:ciclo:28:MULTItotal.D
+D[29] => multiplexador8_1:ciclo:29:MULTItotal.D
+D[30] => multiplexador8_1:ciclo:30:MULTItotal.D
+D[31] => multiplexador8_1:ciclo:31:MULTItotal.D
+E[0] => multiplexador8_1:ciclo:0:MULTItotal.E
+E[1] => multiplexador8_1:ciclo:1:MULTItotal.E
+E[2] => multiplexador8_1:ciclo:2:MULTItotal.E
+E[3] => multiplexador8_1:ciclo:3:MULTItotal.E
+E[4] => multiplexador8_1:ciclo:4:MULTItotal.E
+E[5] => multiplexador8_1:ciclo:5:MULTItotal.E
+E[6] => multiplexador8_1:ciclo:6:MULTItotal.E
+E[7] => multiplexador8_1:ciclo:7:MULTItotal.E
+E[8] => multiplexador8_1:ciclo:8:MULTItotal.E
+E[9] => multiplexador8_1:ciclo:9:MULTItotal.E
+E[10] => multiplexador8_1:ciclo:10:MULTItotal.E
+E[11] => multiplexador8_1:ciclo:11:MULTItotal.E
+E[12] => multiplexador8_1:ciclo:12:MULTItotal.E
+E[13] => multiplexador8_1:ciclo:13:MULTItotal.E
+E[14] => multiplexador8_1:ciclo:14:MULTItotal.E
+E[15] => multiplexador8_1:ciclo:15:MULTItotal.E
+E[16] => multiplexador8_1:ciclo:16:MULTItotal.E
+E[17] => multiplexador8_1:ciclo:17:MULTItotal.E
+E[18] => multiplexador8_1:ciclo:18:MULTItotal.E
+E[19] => multiplexador8_1:ciclo:19:MULTItotal.E
+E[20] => multiplexador8_1:ciclo:20:MULTItotal.E
+E[21] => multiplexador8_1:ciclo:21:MULTItotal.E
+E[22] => multiplexador8_1:ciclo:22:MULTItotal.E
+E[23] => multiplexador8_1:ciclo:23:MULTItotal.E
+E[24] => multiplexador8_1:ciclo:24:MULTItotal.E
+E[25] => multiplexador8_1:ciclo:25:MULTItotal.E
+E[26] => multiplexador8_1:ciclo:26:MULTItotal.E
+E[27] => multiplexador8_1:ciclo:27:MULTItotal.E
+E[28] => multiplexador8_1:ciclo:28:MULTItotal.E
+E[29] => multiplexador8_1:ciclo:29:MULTItotal.E
+E[30] => multiplexador8_1:ciclo:30:MULTItotal.E
+E[31] => multiplexador8_1:ciclo:31:MULTItotal.E
+F[0] => multiplexador8_1:ciclo:0:MULTItotal.F
+F[1] => multiplexador8_1:ciclo:1:MULTItotal.F
+F[2] => multiplexador8_1:ciclo:2:MULTItotal.F
+F[3] => multiplexador8_1:ciclo:3:MULTItotal.F
+F[4] => multiplexador8_1:ciclo:4:MULTItotal.F
+F[5] => multiplexador8_1:ciclo:5:MULTItotal.F
+F[6] => multiplexador8_1:ciclo:6:MULTItotal.F
+F[7] => multiplexador8_1:ciclo:7:MULTItotal.F
+F[8] => multiplexador8_1:ciclo:8:MULTItotal.F
+F[9] => multiplexador8_1:ciclo:9:MULTItotal.F
+F[10] => multiplexador8_1:ciclo:10:MULTItotal.F
+F[11] => multiplexador8_1:ciclo:11:MULTItotal.F
+F[12] => multiplexador8_1:ciclo:12:MULTItotal.F
+F[13] => multiplexador8_1:ciclo:13:MULTItotal.F
+F[14] => multiplexador8_1:ciclo:14:MULTItotal.F
+F[15] => multiplexador8_1:ciclo:15:MULTItotal.F
+F[16] => multiplexador8_1:ciclo:16:MULTItotal.F
+F[17] => multiplexador8_1:ciclo:17:MULTItotal.F
+F[18] => multiplexador8_1:ciclo:18:MULTItotal.F
+F[19] => multiplexador8_1:ciclo:19:MULTItotal.F
+F[20] => multiplexador8_1:ciclo:20:MULTItotal.F
+F[21] => multiplexador8_1:ciclo:21:MULTItotal.F
+F[22] => multiplexador8_1:ciclo:22:MULTItotal.F
+F[23] => multiplexador8_1:ciclo:23:MULTItotal.F
+F[24] => multiplexador8_1:ciclo:24:MULTItotal.F
+F[25] => multiplexador8_1:ciclo:25:MULTItotal.F
+F[26] => multiplexador8_1:ciclo:26:MULTItotal.F
+F[27] => multiplexador8_1:ciclo:27:MULTItotal.F
+F[28] => multiplexador8_1:ciclo:28:MULTItotal.F
+F[29] => multiplexador8_1:ciclo:29:MULTItotal.F
+F[30] => multiplexador8_1:ciclo:30:MULTItotal.F
+F[31] => multiplexador8_1:ciclo:31:MULTItotal.F
+G[0] => multiplexador8_1:ciclo:0:MULTItotal.G
+G[1] => multiplexador8_1:ciclo:1:MULTItotal.G
+G[2] => multiplexador8_1:ciclo:2:MULTItotal.G
+G[3] => multiplexador8_1:ciclo:3:MULTItotal.G
+G[4] => multiplexador8_1:ciclo:4:MULTItotal.G
+G[5] => multiplexador8_1:ciclo:5:MULTItotal.G
+G[6] => multiplexador8_1:ciclo:6:MULTItotal.G
+G[7] => multiplexador8_1:ciclo:7:MULTItotal.G
+G[8] => multiplexador8_1:ciclo:8:MULTItotal.G
+G[9] => multiplexador8_1:ciclo:9:MULTItotal.G
+G[10] => multiplexador8_1:ciclo:10:MULTItotal.G
+G[11] => multiplexador8_1:ciclo:11:MULTItotal.G
+G[12] => multiplexador8_1:ciclo:12:MULTItotal.G
+G[13] => multiplexador8_1:ciclo:13:MULTItotal.G
+G[14] => multiplexador8_1:ciclo:14:MULTItotal.G
+G[15] => multiplexador8_1:ciclo:15:MULTItotal.G
+G[16] => multiplexador8_1:ciclo:16:MULTItotal.G
+G[17] => multiplexador8_1:ciclo:17:MULTItotal.G
+G[18] => multiplexador8_1:ciclo:18:MULTItotal.G
+G[19] => multiplexador8_1:ciclo:19:MULTItotal.G
+G[20] => multiplexador8_1:ciclo:20:MULTItotal.G
+G[21] => multiplexador8_1:ciclo:21:MULTItotal.G
+G[22] => multiplexador8_1:ciclo:22:MULTItotal.G
+G[23] => multiplexador8_1:ciclo:23:MULTItotal.G
+G[24] => multiplexador8_1:ciclo:24:MULTItotal.G
+G[25] => multiplexador8_1:ciclo:25:MULTItotal.G
+G[26] => multiplexador8_1:ciclo:26:MULTItotal.G
+G[27] => multiplexador8_1:ciclo:27:MULTItotal.G
+G[28] => multiplexador8_1:ciclo:28:MULTItotal.G
+G[29] => multiplexador8_1:ciclo:29:MULTItotal.G
+G[30] => multiplexador8_1:ciclo:30:MULTItotal.G
+G[31] => multiplexador8_1:ciclo:31:MULTItotal.G
+H[0] => multiplexador8_1:ciclo:0:MULTItotal.H
+H[1] => multiplexador8_1:ciclo:1:MULTItotal.H
+H[2] => multiplexador8_1:ciclo:2:MULTItotal.H
+H[3] => multiplexador8_1:ciclo:3:MULTItotal.H
+H[4] => multiplexador8_1:ciclo:4:MULTItotal.H
+H[5] => multiplexador8_1:ciclo:5:MULTItotal.H
+H[6] => multiplexador8_1:ciclo:6:MULTItotal.H
+H[7] => multiplexador8_1:ciclo:7:MULTItotal.H
+H[8] => multiplexador8_1:ciclo:8:MULTItotal.H
+H[9] => multiplexador8_1:ciclo:9:MULTItotal.H
+H[10] => multiplexador8_1:ciclo:10:MULTItotal.H
+H[11] => multiplexador8_1:ciclo:11:MULTItotal.H
+H[12] => multiplexador8_1:ciclo:12:MULTItotal.H
+H[13] => multiplexador8_1:ciclo:13:MULTItotal.H
+H[14] => multiplexador8_1:ciclo:14:MULTItotal.H
+H[15] => multiplexador8_1:ciclo:15:MULTItotal.H
+H[16] => multiplexador8_1:ciclo:16:MULTItotal.H
+H[17] => multiplexador8_1:ciclo:17:MULTItotal.H
+H[18] => multiplexador8_1:ciclo:18:MULTItotal.H
+H[19] => multiplexador8_1:ciclo:19:MULTItotal.H
+H[20] => multiplexador8_1:ciclo:20:MULTItotal.H
+H[21] => multiplexador8_1:ciclo:21:MULTItotal.H
+H[22] => multiplexador8_1:ciclo:22:MULTItotal.H
+H[23] => multiplexador8_1:ciclo:23:MULTItotal.H
+H[24] => multiplexador8_1:ciclo:24:MULTItotal.H
+H[25] => multiplexador8_1:ciclo:25:MULTItotal.H
+H[26] => multiplexador8_1:ciclo:26:MULTItotal.H
+H[27] => multiplexador8_1:ciclo:27:MULTItotal.H
+H[28] => multiplexador8_1:ciclo:28:MULTItotal.H
+H[29] => multiplexador8_1:ciclo:29:MULTItotal.H
+H[30] => multiplexador8_1:ciclo:30:MULTItotal.H
+H[31] => multiplexador8_1:ciclo:31:MULTItotal.H
+S2 => multiplexador8_1:ciclo:31:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:30:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:29:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:28:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:27:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:26:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:25:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:24:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:23:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:22:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:21:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:20:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:19:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:18:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:17:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:16:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:15:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:14:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:13:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:12:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:11:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:10:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:9:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:8:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:7:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:6:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:5:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:4:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:3:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:2:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:1:MULTItotal.S2
+S2 => multiplexador8_1:ciclo:0:MULTItotal.S2
+s1 => multiplexador8_1:ciclo:31:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:30:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:29:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:28:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:27:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:26:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:25:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:24:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:23:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:22:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:21:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:20:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:19:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:18:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:17:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:16:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:15:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:14:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:13:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:12:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:11:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:10:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:9:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:8:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:7:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:6:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:5:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:4:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:3:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:2:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:1:MULTItotal.S1
+s1 => multiplexador8_1:ciclo:0:MULTItotal.S1
+s0 => multiplexador8_1:ciclo:31:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:30:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:29:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:28:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:27:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:26:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:25:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:24:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:23:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:22:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:21:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:20:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:19:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:18:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:17:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:16:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:15:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:14:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:13:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:12:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:11:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:10:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:9:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:8:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:7:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:6:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:5:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:4:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:3:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:2:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:1:MULTItotal.S0
+s0 => multiplexador8_1:ciclo:0:MULTItotal.S0
+Q[0] <= multiplexador8_1:ciclo:0:MULTItotal.Q
+Q[1] <= multiplexador8_1:ciclo:1:MULTItotal.Q
+Q[2] <= multiplexador8_1:ciclo:2:MULTItotal.Q
+Q[3] <= multiplexador8_1:ciclo:3:MULTItotal.Q
+Q[4] <= multiplexador8_1:ciclo:4:MULTItotal.Q
+Q[5] <= multiplexador8_1:ciclo:5:MULTItotal.Q
+Q[6] <= multiplexador8_1:ciclo:6:MULTItotal.Q
+Q[7] <= multiplexador8_1:ciclo:7:MULTItotal.Q
+Q[8] <= multiplexador8_1:ciclo:8:MULTItotal.Q
+Q[9] <= multiplexador8_1:ciclo:9:MULTItotal.Q
+Q[10] <= multiplexador8_1:ciclo:10:MULTItotal.Q
+Q[11] <= multiplexador8_1:ciclo:11:MULTItotal.Q
+Q[12] <= multiplexador8_1:ciclo:12:MULTItotal.Q
+Q[13] <= multiplexador8_1:ciclo:13:MULTItotal.Q
+Q[14] <= multiplexador8_1:ciclo:14:MULTItotal.Q
+Q[15] <= multiplexador8_1:ciclo:15:MULTItotal.Q
+Q[16] <= multiplexador8_1:ciclo:16:MULTItotal.Q
+Q[17] <= multiplexador8_1:ciclo:17:MULTItotal.Q
+Q[18] <= multiplexador8_1:ciclo:18:MULTItotal.Q
+Q[19] <= multiplexador8_1:ciclo:19:MULTItotal.Q
+Q[20] <= multiplexador8_1:ciclo:20:MULTItotal.Q
+Q[21] <= multiplexador8_1:ciclo:21:MULTItotal.Q
+Q[22] <= multiplexador8_1:ciclo:22:MULTItotal.Q
+Q[23] <= multiplexador8_1:ciclo:23:MULTItotal.Q
+Q[24] <= multiplexador8_1:ciclo:24:MULTItotal.Q
+Q[25] <= multiplexador8_1:ciclo:25:MULTItotal.Q
+Q[26] <= multiplexador8_1:ciclo:26:MULTItotal.Q
+Q[27] <= multiplexador8_1:ciclo:27:MULTItotal.Q
+Q[28] <= multiplexador8_1:ciclo:28:MULTItotal.Q
+Q[29] <= multiplexador8_1:ciclo:29:MULTItotal.Q
+Q[30] <= multiplexador8_1:ciclo:30:MULTItotal.Q
+Q[31] <= multiplexador8_1:ciclo:31:MULTItotal.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:31:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:30:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:29:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:28:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:27:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:26:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:25:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:24:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:23:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:22:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:21:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:20:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:19:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:18:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:17:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:16:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:15:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:14:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:13:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:12:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:11:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:10:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:9:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:8:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:7:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:6:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:5:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:4:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:3:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:2:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:1:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal
+A => multiplexador4_1:MULTI1.A
+B => multiplexador4_1:MULTI1.B
+C => multiplexador4_1:MULTI1.C
+D => multiplexador4_1:MULTI1.D
+E => multiplexador4_1:MULTI2.A
+F => multiplexador4_1:MULTI2.B
+G => multiplexador4_1:MULTI2.C
+H => multiplexador4_1:MULTI2.D
+S0 => multiplexador4_1:MULTI1.S0
+S0 => multiplexador4_1:MULTI2.S0
+S1 => multiplexador4_1:MULTI1.S1
+S1 => multiplexador4_1:MULTI2.S1
+S2 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal|multiplexador4_1:MULTI1
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal|multiplexador4_1:MULTI1|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal|multiplexador4_1:MULTI2
+A => multiplexador:MULTI1.A
+B => multiplexador:MULTI1.B
+C => multiplexador:MULTI2.A
+D => multiplexador:MULTI2.B
+S0 => multiplexador:MULTI1.S
+S0 => multiplexador:MULTI2.S
+S1 => multiplexador:MULTI3.S
+Q <= multiplexador:MULTI3.Q
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI1
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI2
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal|multiplexador4_1:MULTI2|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplexador32_b|multiplexador8_1:\ciclo:0:MULTItotal|multiplexador:MULTI3
+A => Q.IN0
+B => Q.IN0
+S => Q.IN1
+S => Q.IN1
+Q <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+

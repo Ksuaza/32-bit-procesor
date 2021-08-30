@@ -1,0 +1,134 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Escritorio/universidad/Semestre 6/Digitales/Procesador/simulation/qsim
+vKernel
+Z1 !s110 1478633637
+!i10b 1
+!s100 m3bIe;dBgMK;N4AP]zYEG1
+IgTX5LgDi43Z7JTm92P@1?0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1478633621
+Z3 8Procesador.vo
+Z4 FProcesador.vo
+Z5 L0 32
+Z6 OV;L;10.4d;61
+r1
+!s85 0
+31
+!s108 1478633636.000000
+Z7 !s107 Procesador.vo|
+Z8 !s90 -work|work|Procesador.vo|
+!i113 1
+Z9 o-work work
+n@kernel
+vKernel_vlg_vec_tst
+R1
+!i10b 1
+!s100 C5z4:bJ]HgCMcf<m36NG01
+IW7KDAA;1S3hANAXVQ7keH2
+R2
+R0
+w1478633612
+Z10 8Prueba.vwf.vt
+Z11 FPrueba.vwf.vt
+Z12 L0 30
+R6
+r1
+!s85 0
+31
+!s108 1478633637.000000
+Z13 !s107 Prueba.vwf.vt|
+Z14 !s90 -work|work|Prueba.vwf.vt|
+!i113 1
+R9
+n@kernel_vlg_vec_tst
+vmultiplexador32_b_2_1
+!s110 1478634458
+!i10b 1
+!s100 UM^keiQeHJnORd8N:Ez?D3
+I>1Vm@P0F_?h[Mb;`<H8Y<0
+R2
+R0
+w1478634456
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+!s108 1478634458.000000
+R7
+R8
+!i113 1
+R9
+vmultiplexador32_b_2_1_vlg_vec_tst
+!s110 1478634459
+!i10b 1
+!s100 C>UhSLYa7B=<XWgl`e7LG0
+ILz4KE_[6J;DJM^[3kWIN71
+R2
+R0
+w1478634454
+R10
+R11
+R12
+R6
+r1
+!s85 0
+31
+!s108 1478634459.000000
+R13
+R14
+!i113 1
+R9
+vProcesador
+Z15 !s110 1479243916
+!i10b 1
+!s100 XgKP4cKPKa8[O;W<23hi53
+IZ;o^ZlME[aC?NTR<i6KIi2
+R2
+R0
+w1479243915
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z16 !s108 1479243916.000000
+R7
+R8
+!i113 1
+R9
+n@procesador
+vProcesador_vlg_vec_tst
+R15
+!i10b 1
+!s100 AV8R2cO=Pe=0]no^O3g_;2
+I9>MWL2]E6BF:UCWA=lA<83
+R2
+R0
+w1479243913
+R10
+R11
+R12
+R6
+r1
+!s85 0
+31
+R16
+R13
+R14
+!i113 1
+R9
+n@procesador_vlg_vec_tst

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Escritorio/universidad/Semestre 6/Digitales/Procesador/ALU/ShiftDerecha/simulation/qsim
+vShiftDerecha
+Z1 !s110 1476056730
+!i10b 1
+!s100 ^PUzC0JW3CMRZS7IT9<6k0
+IP:IZaD3A27]<beomQN4:=1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1476056729
+8ShiftDerecha.vo
+FShiftDerecha.vo
+L0 32
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1476056730.000000
+!s107 ShiftDerecha.vo|
+!s90 -work|work|ShiftDerecha.vo|
+!i113 1
+Z5 o-work work
+n@shift@derecha
+vShiftDerecha_vlg_vec_tst
+R1
+!i10b 1
+!s100 z6PnM3`MnJgQzz:NoEhf=2
+IUlEdj2c=0k0;UkNH18OA^3
+R2
+R0
+w1476056727
+8Prueba.vwf.vt
+FPrueba.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 Prueba.vwf.vt|
+!s90 -work|work|Prueba.vwf.vt|
+!i113 1
+R5
+n@shift@derecha_vlg_vec_tst

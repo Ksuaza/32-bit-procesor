@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Escritorio/universidad/Semestre 6/Digitales/Procesador/ALU/Xors/simulation/qsim
+vXors
+Z1 !s110 1476053883
+!i10b 1
+!s100 PTNWmIT3=VkD6cS6CF:i80
+I6?:kdH@L7X:I5j7f@eSdP1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1476053880
+8Xors.vo
+FXors.vo
+L0 32
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1476053883.000000
+!s107 Xors.vo|
+!s90 -work|work|Xors.vo|
+!i113 1
+Z5 o-work work
+n@xors
+vXors_vlg_vec_tst
+R1
+!i10b 1
+!s100 []Za=SkWgC8za3KQ_cm]b2
+I2J9W<cY:l1EO7;J]AaRIC2
+R2
+R0
+w1476053879
+8Prueba.vwf.vt
+FPrueba.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 Prueba.vwf.vt|
+!s90 -work|work|Prueba.vwf.vt|
+!i113 1
+R5
+n@xors_vlg_vec_tst

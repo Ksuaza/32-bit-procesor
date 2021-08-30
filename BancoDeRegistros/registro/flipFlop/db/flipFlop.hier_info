@@ -1,0 +1,26 @@
+|flipFlop
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|flipFlop|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|flipFlop|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+

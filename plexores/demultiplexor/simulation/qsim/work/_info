@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Escritorio/universidad/Semestre 6/Digitales/Procesador/plexores/demultiplexor/simulation/qsim
+vdemultiplexor4_1
+Z1 !s110 1475270059
+!i10b 1
+!s100 2bFd]nG`E1TA?46QfQfnL2
+I8QjNK4Ld[@@2PiJfF90Sk2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1475270058
+8demultiplexor.vo
+Fdemultiplexor.vo
+L0 32
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1475270059.000000
+!s107 demultiplexor.vo|
+!s90 -work|work|demultiplexor.vo|
+!i113 1
+Z5 o-work work
+vdemultiplexor4_1_vlg_vec_tst
+R1
+!i10b 1
+!s100 niBiC4;>9XdAI:Dz>k47i1
+IOQa8FbVeXnD9RN`WQVen21
+R2
+R0
+w1475270057
+8mierda.vwf.vt
+Fmierda.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 mierda.vwf.vt|
+!s90 -work|work|mierda.vwf.vt|
+!i113 1
+R5

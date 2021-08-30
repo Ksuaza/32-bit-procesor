@@ -1,0 +1,931 @@
+|registro
+D[0] => flipFlop:ciclo:0:flip.D
+D[1] => flipFlop:ciclo:1:flip.D
+D[2] => flipFlop:ciclo:2:flip.D
+D[3] => flipFlop:ciclo:3:flip.D
+D[4] => flipFlop:ciclo:4:flip.D
+D[5] => flipFlop:ciclo:5:flip.D
+D[6] => flipFlop:ciclo:6:flip.D
+D[7] => flipFlop:ciclo:7:flip.D
+D[8] => flipFlop:ciclo:8:flip.D
+D[9] => flipFlop:ciclo:9:flip.D
+D[10] => flipFlop:ciclo:10:flip.D
+D[11] => flipFlop:ciclo:11:flip.D
+D[12] => flipFlop:ciclo:12:flip.D
+D[13] => flipFlop:ciclo:13:flip.D
+D[14] => flipFlop:ciclo:14:flip.D
+D[15] => flipFlop:ciclo:15:flip.D
+D[16] => flipFlop:ciclo:16:flip.D
+D[17] => flipFlop:ciclo:17:flip.D
+D[18] => flipFlop:ciclo:18:flip.D
+D[19] => flipFlop:ciclo:19:flip.D
+D[20] => flipFlop:ciclo:20:flip.D
+D[21] => flipFlop:ciclo:21:flip.D
+D[22] => flipFlop:ciclo:22:flip.D
+D[23] => flipFlop:ciclo:23:flip.D
+D[24] => flipFlop:ciclo:24:flip.D
+D[25] => flipFlop:ciclo:25:flip.D
+D[26] => flipFlop:ciclo:26:flip.D
+D[27] => flipFlop:ciclo:27:flip.D
+D[28] => flipFlop:ciclo:28:flip.D
+D[29] => flipFlop:ciclo:29:flip.D
+D[30] => flipFlop:ciclo:30:flip.D
+D[31] => flipFlop:ciclo:31:flip.D
+EN => flipFlop:ciclo:31:flip.Clk
+EN => flipFlop:ciclo:30:flip.Clk
+EN => flipFlop:ciclo:29:flip.Clk
+EN => flipFlop:ciclo:28:flip.Clk
+EN => flipFlop:ciclo:27:flip.Clk
+EN => flipFlop:ciclo:26:flip.Clk
+EN => flipFlop:ciclo:25:flip.Clk
+EN => flipFlop:ciclo:24:flip.Clk
+EN => flipFlop:ciclo:23:flip.Clk
+EN => flipFlop:ciclo:22:flip.Clk
+EN => flipFlop:ciclo:21:flip.Clk
+EN => flipFlop:ciclo:20:flip.Clk
+EN => flipFlop:ciclo:19:flip.Clk
+EN => flipFlop:ciclo:18:flip.Clk
+EN => flipFlop:ciclo:17:flip.Clk
+EN => flipFlop:ciclo:16:flip.Clk
+EN => flipFlop:ciclo:15:flip.Clk
+EN => flipFlop:ciclo:14:flip.Clk
+EN => flipFlop:ciclo:13:flip.Clk
+EN => flipFlop:ciclo:12:flip.Clk
+EN => flipFlop:ciclo:11:flip.Clk
+EN => flipFlop:ciclo:10:flip.Clk
+EN => flipFlop:ciclo:9:flip.Clk
+EN => flipFlop:ciclo:8:flip.Clk
+EN => flipFlop:ciclo:7:flip.Clk
+EN => flipFlop:ciclo:6:flip.Clk
+EN => flipFlop:ciclo:5:flip.Clk
+EN => flipFlop:ciclo:4:flip.Clk
+EN => flipFlop:ciclo:3:flip.Clk
+EN => flipFlop:ciclo:2:flip.Clk
+EN => flipFlop:ciclo:1:flip.Clk
+EN => flipFlop:ciclo:0:flip.Clk
+Q[0] <> flipFlop:ciclo:0:flip.Q
+Q[1] <> flipFlop:ciclo:1:flip.Q
+Q[2] <> flipFlop:ciclo:2:flip.Q
+Q[3] <> flipFlop:ciclo:3:flip.Q
+Q[4] <> flipFlop:ciclo:4:flip.Q
+Q[5] <> flipFlop:ciclo:5:flip.Q
+Q[6] <> flipFlop:ciclo:6:flip.Q
+Q[7] <> flipFlop:ciclo:7:flip.Q
+Q[8] <> flipFlop:ciclo:8:flip.Q
+Q[9] <> flipFlop:ciclo:9:flip.Q
+Q[10] <> flipFlop:ciclo:10:flip.Q
+Q[11] <> flipFlop:ciclo:11:flip.Q
+Q[12] <> flipFlop:ciclo:12:flip.Q
+Q[13] <> flipFlop:ciclo:13:flip.Q
+Q[14] <> flipFlop:ciclo:14:flip.Q
+Q[15] <> flipFlop:ciclo:15:flip.Q
+Q[16] <> flipFlop:ciclo:16:flip.Q
+Q[17] <> flipFlop:ciclo:17:flip.Q
+Q[18] <> flipFlop:ciclo:18:flip.Q
+Q[19] <> flipFlop:ciclo:19:flip.Q
+Q[20] <> flipFlop:ciclo:20:flip.Q
+Q[21] <> flipFlop:ciclo:21:flip.Q
+Q[22] <> flipFlop:ciclo:22:flip.Q
+Q[23] <> flipFlop:ciclo:23:flip.Q
+Q[24] <> flipFlop:ciclo:24:flip.Q
+Q[25] <> flipFlop:ciclo:25:flip.Q
+Q[26] <> flipFlop:ciclo:26:flip.Q
+Q[27] <> flipFlop:ciclo:27:flip.Q
+Q[28] <> flipFlop:ciclo:28:flip.Q
+Q[29] <> flipFlop:ciclo:29:flip.Q
+Q[30] <> flipFlop:ciclo:30:flip.Q
+Q[31] <> flipFlop:ciclo:31:flip.Q
+
+
+|registro|flipFlop:\ciclo:31:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:31:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:31:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:30:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:30:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:30:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:29:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:29:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:29:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:28:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:28:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:28:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:27:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:27:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:27:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:26:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:26:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:26:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:25:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:25:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:25:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:24:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:24:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:24:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:23:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:23:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:23:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:22:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:22:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:22:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:21:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:21:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:21:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:20:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:20:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:20:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:19:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:19:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:19:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:18:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:18:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:18:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:17:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:17:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:17:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:16:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:16:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:16:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:15:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:15:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:15:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:14:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:14:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:14:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:13:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:13:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:13:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:12:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:12:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:12:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:11:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:11:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:11:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:10:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:10:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:10:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:9:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:9:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:9:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:8:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:8:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:8:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:7:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:7:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:7:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:6:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:6:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:6:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:5:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:5:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:5:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:4:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:4:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:4:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:3:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:3:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:3:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:2:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:2:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:2:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:1:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:1:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:1:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:0:flip
+D => latchD:latch1.d
+Clk => latchD:latch1.en
+Clk => latchD:latch2.en
+Q <> latchD:latch2.q
+Qn <> latchD:latch2.qn
+
+
+|registro|flipFlop:\ciclo:0:flip|latchD:latch1
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
+|registro|flipFlop:\ciclo:0:flip|latchD:latch2
+d => q1.IN0
+d => qn1.IN0
+en => q1.IN1
+en => qn1.IN1
+q <> q
+qn <> qn
+
+
